@@ -67,3 +67,22 @@ Strategy Parameters: SL, TP, N shares
 Strategy Constants:
 Commission = 0.125%
 Borrow Rate = 0.25% (annualized)
+
+FLUJO GENERAL DEL PROYECTO
+
+Descarga de datos 
+        ↓
+Limpieza y normalización 
+        ↓
+Ingeniería de características (indicadores técnicos)
+        ↓
+Entrenamiento de modelos (MLP / CNN)
+        ↓
+Seguimiento de experimentos (MLflow)
+        ↓
+Monitoreo de deriva de datos (KS-test)
+        ↓
+Backtesting y métricas de rentabilidad
+        ↓
+Análisis de resultados y conclusiones
+
