@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Keysi%20Fuentes/PycharmProjects/pythonProject5/mlruns/886419325962738812/models/m-1b392fda96af4ec2a872c4f4f5fbde0b/artifacts
+creation_timestamp: 1761666612721
+experiment_id: '886419325962738812'
+last_updated_timestamp: 1761666619536
+model_id: m-1b392fda96af4ec2a872c4f4f5fbde0b
+model_type: null
+name: model_mlp
+source_run_id: 3d652b0ce0904b689b59b4063358b59a
+status: 2
+status_message: null

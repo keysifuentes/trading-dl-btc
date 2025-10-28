@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Keysi%20Fuentes/PycharmProjects/pythonProject5/mlruns/886419325962738812/models/m-1b392fda96af4ec2a872c4f4f5fbde0b/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.0+cpu
+mlflow_version: 3.5.1
+model_id: m-1b392fda96af4ec2a872c4f4f5fbde0b
+model_size_bytes: 51225
+model_uuid: m-1b392fda96af4ec2a872c4f4f5fbde0b
+prompts: null
+run_id: 3d652b0ce0904b689b59b4063358b59a
+utc_time_created: '2025-10-28 15:50:12.803995'
