@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Keysi%20Fuentes/PycharmProjects/pythonProject5/mlruns/886419325962738812/ecef84dfac704c0fa45a391bde151853/artifacts
+end_time: 1761627429728
+entry_point_name: ''
+experiment_id: '886419325962738812'
+lifecycle_stage: active
+run_id: ecef84dfac704c0fa45a391bde151853
+run_name: cnn
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761627429637
+status: 4
+tags: []
+user_id: Keysi Fuentes

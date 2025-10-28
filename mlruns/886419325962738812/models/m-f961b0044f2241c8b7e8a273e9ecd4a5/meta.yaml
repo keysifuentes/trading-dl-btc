@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Keysi%20Fuentes/PycharmProjects/pythonProject5/mlruns/886419325962738812/models/m-f961b0044f2241c8b7e8a273e9ecd4a5/artifacts
+creation_timestamp: 1761628168696
+experiment_id: '886419325962738812'
+last_updated_timestamp: 1761628173840
+model_id: m-f961b0044f2241c8b7e8a273e9ecd4a5
+model_type: null
+name: model_cnn
+source_run_id: b09941c873f746b090372651817cd688
+status: 2
+status_message: null
